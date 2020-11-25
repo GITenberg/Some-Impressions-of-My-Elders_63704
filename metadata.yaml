@@ -1,0 +1,33 @@
+_repo: Some-Impressions-of-My-Elders_63704
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ervine, St. John G. (St. John Greer)
+    aliases:
+    - Ervine, John St. John Greer
+    - Ervine, Saint John G. (Saint John Greer)
+    birthdate: 1883
+    deathdate: 1971
+    gutenberg_agent_id: '3061'
+    url: http://www.gutenberg.org/2009/agents/3061
+    wikipedia: https://en.wikipedia.org/wiki/St._John_Greer_Ervine
+description: ''
+gutenberg_issued: '2020-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63704'
+  lccn: '22021939'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English literature -- 20th century -- History and criticism'
+- !lcsh 'English literature -- 19th century -- History and criticism'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: The author to his readers -- "A. E." (George William Russell) --
+  Arnold Bennett -- G. K. Chesterton -- John Galsworthy -- George Moore -- Bernard
+  Shaw -- H. G. Wells -- W. B. Yeats.
+title: Some Impressions of My Elders
+url: http://www.gutenberg.org/ebooks/63704
